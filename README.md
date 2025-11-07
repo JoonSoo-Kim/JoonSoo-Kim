@@ -6,13 +6,18 @@
 <table>
   <tr>
     <td><image src="https://github.com/user-attachments/assets/55e40a38-1354-401b-9255-89f979d924e0" width=150px></td>
-    <td>2019.03 ~ Now </td>
+    <td>2019.03 ~ 2026.02 </td>
     <td>경희대학교 SW융합학과 데이터사이언스 트랙</td>
   </tr>
   <tr>
     <td><image src="https://github.com/user-attachments/assets/2ad0383a-e73e-4160-bcdc-105ce8b34b6b" width=150px></td>
     <td>2023.07 - 2023.12</td>
     <td>네이버 부스트캠프 웹・모바일 8기 백엔드</td>
+  </tr>
+  <tr>
+    <td><image src="https://github.com/user-attachments/assets/8934aa5b-6e4d-436c-9a05-9b23f11875c2" width=150px></td>
+    <td>2025.03 - 2025.07</td>
+    <td>AWS Academy<br>- Cloud Architecting<br>- Cloud Foundations<br>- Machine Learning Foundations</td>
   </tr>
 </table>
 
